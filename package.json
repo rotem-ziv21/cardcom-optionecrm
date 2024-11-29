@@ -1,0 +1,12 @@
+{
+  "name": "crm-cardcom-integration",
+  "version": "1.0.0",
+  "description": "This integration allows for seamless payment processing directly within your CRM system using CardCom's payment gateway.",
+  "main": "cardcom-integration.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
